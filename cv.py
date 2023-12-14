@@ -14,8 +14,8 @@ st.write("""
 # Rasika Kulkarni, Junior Data Analyst
 #### * Resume *
 """)
-image = Image.open(r"C:Users\atharv\Desktop\Rasika\Resume\digital_cv\resume_photo.jpg")
-st.image(image,width=150)
+#image = Image.open(r"C:Users\atharv\Desktop\Rasika\Resume\digital_cv\resume_photo.jpg")
+#st.image(image,width=150)
 
 st.markdown('Summary')
 st.info("""
