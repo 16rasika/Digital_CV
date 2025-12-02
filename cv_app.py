@@ -8,7 +8,7 @@ from pathlib import Path
 ############ ---- GENERAL SETTINGS ---#########################
 st.set_page_config(
    page_title="Digital CV | Rasika Kulkarni",
-   page_icon="👋",
+   #page_icon="👋",
 )
 
 
@@ -239,3 +239,4 @@ st.link_button("Visit LinkedIn","https://www.linkedin.com/in/16rasika/")
 st.link_button("Visit Github", "https://github.com/16rasika/")
 
 #st.link_button("Visit Datacamp","https://www.datacamp.com/portfolio/16rasika-b61fdec4-53d2-40ad-b8ea-f1ca2e63a51f")
+
