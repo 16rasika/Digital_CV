@@ -1,4 +1,9 @@
-
+primaryColor = "#f63366"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"  
+#background-color: #eee;  
 * {font-family: 'Readex Pro';}
 
 body {
@@ -43,3 +48,4 @@ a:hover{
     text-decoration : none;    
 
 }
+
