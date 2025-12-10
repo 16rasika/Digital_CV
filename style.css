@@ -2,7 +2,8 @@
 * {font-family: 'Readex Pro';}
 
 body {
-    background-color: #eee;
+    background-color : #FFFFFF;
+    secondaryBackgroundColor = #f0f2f6;
 }
 
 .fullScreenFrame > div {
@@ -40,4 +41,5 @@ header {
 a:hover{
     color: #d33682 !important;
     text-decoration : none;    
+
 }
